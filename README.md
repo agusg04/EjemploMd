@@ -23,12 +23,12 @@
 
 ## Vínculo al Instituto
 
-Visita la [web del Instituto](https://iesvelazquez.org/).
+[Web del Instituto](https://iesvelazquez.org/).
 
 ## Código Fuente Java
 
 ```java
-public class HolaVelazquez {
+public class Ejemplo {
     public static void main(String[] args) {
         System.out.println("Hola Velázquez");
     }
