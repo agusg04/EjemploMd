@@ -1,4 +1,4 @@
-  ```mermaid
+```mermaid
 graph TD
   A[Iniciar Programa]
   B{¿Compila?}
@@ -18,5 +18,5 @@ graph TD
   D -->|Sí| E
   D -->|No| Z
   E --> F
+```
 
-  ```
