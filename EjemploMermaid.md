@@ -9,5 +9,4 @@ stateDiagram-v2
     StackOverFlow --> Desistir: "No puedo más"
     ChatGPT --> Desistir: "Apagar el ordenador"
     ChatGPT --> Abandonar: "Esto de programar no es lo mío"
-    
   ```
